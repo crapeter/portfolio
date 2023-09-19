@@ -1,5 +1,7 @@
 # portfolio
 
+outdated, I'm not updated this currently
+
 ## Project setup
 ```
 npm install
